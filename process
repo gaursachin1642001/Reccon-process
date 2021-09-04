@@ -1,0 +1,37 @@
+Finding Subdomain
+Tools I use for finding subDomain:
+1.Subfinder
+2.Assetfinder
+3.Findomain
+4.Github-subdomain
+5.shodan
+6.Census
+7.Github Enumermation
+
+Alive domain
+1.Httpx
+2.Httprobe
+
+Finding Urls
+1.Waybackurls
+2.Gau
+3.Hakrawler
+4.linkfinder
+5.secretfinder
+
+****Run Httpx and Httprobe to get live subdomain
+****Collect robots.txt to a file & extract disallowed entry from them
+****Collect js file from & use linkfinder and secretfinder to get endpoints
+****Run arjun for hidden parameter
+***Feed all the parameter to kxss to find out which character are not filtered
+
+
+Finding bugs
+**Xss
+**Sql
+**Open Redirect
+**Ssrf
+**Cors
+**Information Disclosure
+**Idor
+**Ssti
